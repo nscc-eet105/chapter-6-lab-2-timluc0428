@@ -17,7 +17,7 @@ while True:
         b = float(input("b: "))
         break
     except ValueError:
-        print("Please enter a valid bumber for the y intercept (b)") 
+        print("Please enter a valid number for the y intercept (b)") 
 
 #Use list comprehension to populate a list with values for x from -20 to 20 and assign
     #to the variable x_coordinates.
