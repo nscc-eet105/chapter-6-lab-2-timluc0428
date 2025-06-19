@@ -1,24 +1,5 @@
 import matplotlib.pyplot as plt
 
-#graph a linear equation in slope-intercept form(y = mx + b) when the user
-# enters the values for m(slope) and b(y-intercept).
-
-#DONE #Use list comprehension to generate x coordinates from -20 to positive 20
-#DONE #Use list comprehension to generate the y coordinates using the slope-intercept
-    #equation and the list of x coordinates.
-
-#DONE #plot the coordinates
-
-#DONE #force a square grid using plt.axis("square") do this before setting limits
-
-#DONE #Set the limits for both the x and y axis to be from -20 to 20
-
-#DONE #turn on a grid by using plt.grid(True)
-
-#DONE #turn on the x and y axis by using axhline and axvline:
-    #plt.axhline(y=0, color="k")
-    #plt.axvline(x=0, color="k")
-
 print("This program will graph a line when given the slope and the intercept.")
 print("Please enter the values for m and b given the form y = mx + b")
 
